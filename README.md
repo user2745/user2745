@@ -1,6 +1,6 @@
 ### Hello, World 👋
 
-I am a technologist turned entrepreneur passionate about the future of technology.
+I am a developer turned entrepreneur passionate about the future of technology.
 <!--
 **user2745/user2745** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
