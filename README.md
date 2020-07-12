@@ -3,7 +3,6 @@
 I am a developer turned entrepreneur passionate about the future of technology.
 <!--
 **user2745/user2745** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 -->
 
@@ -14,3 +13,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ways to grow your business network
 - 📫 How to reach me: kamtokevin@gmail.com
 - ⚡ Fun fact: I am from not America!
+
+Motto: Focus and Discipline will set you free
