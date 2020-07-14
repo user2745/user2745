@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: kamtokevin@gmail.com
 - ⚡ Fun fact: I am from not America!
 
-Motto: Focus and Discipline will set you free
+Values: Knowledge, Focus and Discipline
