@@ -12,7 +12,7 @@ Values: Knowledge, Focus and Discipline
 - 🌱 I’m currently learning more about delivering IoT systems
 - 🤔 I’m looking for help with mobile app development!
 - 👯 I’m looking to collaborate on https://github.com/protest-finder
-- 💬 Ask me about ways to grow your business network
+- 💬 Ask me about the Internet of Things, and the future of Technology
 - 📫 How to reach me: kamtokevin@gmail.com
 - ⚡ Fun fact: I am from not America!
 
