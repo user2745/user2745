@@ -9,7 +9,7 @@ Values: Knowledge, Focus and Discipline
 - 👯 I’m looking to collaborate on https://github.com/protest-finder
 -->
 
-- ✔️ I'm someone that always sees a project to the end
+- ✔️ I'm someone that always sees a commitment to the end
 - 🔭 I’m currently working on projects under @SportsToken
 - 🌱 I’m currently learning more about defi!
 - 🤔 I’m looking for help with smart contracts + iot!
