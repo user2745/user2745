@@ -1,4 +1,4 @@
-### Hello, World 👋
+### Bonjour, toute le monde! 👋
 
 I am a developer passionate about the edge of technology.
 <!--
