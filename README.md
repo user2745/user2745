@@ -1,6 +1,6 @@
 ### Bonjour, toute le monde! 👋
 
-I am a developer passionate about the edge of technology.
+I am an engineer passionate about the edge of technology.
 <!--
 **user2745/user2745** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
