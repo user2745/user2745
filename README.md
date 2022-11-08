@@ -11,7 +11,7 @@ Values: Knowledge, Focus and Discipline
 
 - ✔️ I'm someone that always sees a commitment to the end
 - 🔭 I’m currently working on projects under @SportsToken
-- 🌱 I’m currently learning more about defi!
+- 🌱 I’m currently learning more about quant trading!
 - 🤔 I’m looking for help with smart contracts + iot!
 - 📫 How to reach me: Linkedin.com/in/Kevin-Kamto
 - 💬 Ask me about the Internet of Things
