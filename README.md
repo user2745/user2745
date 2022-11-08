@@ -16,4 +16,3 @@ Values: Knowledge, Focus and Discipline
 - 📫 How to reach me: Linkedin.com/in/Kevin-Kamto
 - 💬 Ask me about the Internet of Things
 - ⚡ Fun fact: I am from not America!
-
