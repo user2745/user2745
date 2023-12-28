@@ -11,8 +11,8 @@ Values: Knowledge, Focus and Discipline
 
 - ✔️ I'm someone that always sees a commitment to the end
 - 🔭 I’m currently working on projects under @AthleteX-DAO
-- 🌱 I’m currently learning more about quant trading!
-- 🤔 I’m looking for help with building a better alternative to the stock market!
+- 🌱 I’m currently learning more about algo trading!
+- 🤔 I’m looking for help with building a sports digital asset exchange!
 - 📫 How to reach me: Linkedin.com/in/Kevin-Kamto
-- 💬 Ask me about the Internet of Things
+- 💬 Ask me about major turning points in history!
 - ⚡ Fun fact: I am from not America!
