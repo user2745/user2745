@@ -10,8 +10,8 @@ Values: Knowledge, Focus and Discipline
 -->
 
 - ✔️ I'm someone that always sees a commitment to the end
-- 🔭 I’m currently working on projects under @AthleteX-DAO
-- 🌱 I’m currently learning more about algo trading!
+- 🔭 I’m currently working on projects under Prediction Labs!
+- 🌱 I’m currently learning more about petri nets!
 - 🤔 I’m looking for help with building a sports digital asset exchange!
 - 📫 How to reach me: Linkedin.com/in/Kevin-Kamto
 - 💬 Ask me about major turning points in history!
