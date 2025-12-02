@@ -11,8 +11,8 @@ Values: Knowledge, Focus and Discipline
 
 - ✔️ I'm someone that always sees a commitment to the end
 - 🔭 I’m currently working on projects under Prediction Labs!
-- 🌱 I’m currently learning more about petri nets!
+- 🌱 I’m currently learning more about Gen AI!
 - 🤔 I’m looking for help with building a sports digital asset exchange!
 - 📫 How to reach me: Linkedin.com/in/Kevin-Kamto
-- 💬 Ask me about major turning points in history!
-- ⚡ Fun fact: I am from not America!
+- 💬 Ask me about prediction markets!
+- ⚡ Fun fact: I love the mountains ⛰️!
